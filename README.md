@@ -15,7 +15,7 @@
 
 ## Demo
 
-<!-- <img src="./demo.png" align="center"> -->
+<img src="./demo.png" align="center">
 
 
 ## Install
