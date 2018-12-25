@@ -4,7 +4,9 @@
   "description": "Alfred workflow to take control of your github notifications",
   "main": "index.js",
   "scripts": {
-    "test": "xo"
+    "test": "xo",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   },
   "repository": {
     "type": "git",
