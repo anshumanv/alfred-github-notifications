@@ -18,5 +18,10 @@ const alfy = require('alfy');
 		}});
 
 		// Throw the final list of items
-		alfy.output(items)
+		const blankItem = [{
+			title: 'No notifications found',
+			subtitle: 'Click/Enter to goto your notifications',
+			arg: 'https://github.com/notifications',
+		}]
+		alfy.output(items.length ? items : blankItem)
 })();
