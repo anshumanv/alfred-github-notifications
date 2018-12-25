@@ -19,6 +19,12 @@
     "api",
     "notifications"
   ],
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist",
+    "demo.png"
+  ],
   "author": "anshumanv",
   "license": "MIT",
   "bugs": {
