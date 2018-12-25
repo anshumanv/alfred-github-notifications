@@ -1,6 +1,6 @@
 {
   "name": "alfred-github-notifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alfred workflow to take control of your github notifications",
   "main": "index.js",
   "scripts": {
