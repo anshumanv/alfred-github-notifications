@@ -1,0 +1,26 @@
+{
+  "name": "alfred-github-notifications",
+  "version": "1.0.0",
+  "description": "Alfred workflow to take control of your github notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshumanv/alfred-github-notifications.git"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "github",
+    "api",
+    "notifications"
+  ],
+  "author": "anshumanv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshumanv/alfred-github-notifications/issues"
+  },
+  "homepage": "https://github.com/anshumanv/alfred-github-notifications#readme"
+}
