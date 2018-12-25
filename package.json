@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/anshumanv/alfred-github-notifications/issues"
   },
-  "homepage": "https://github.com/anshumanv/alfred-github-notifications#readme"
+  "homepage": "https://github.com/anshumanv/alfred-github-notifications#readme",
+  "dependencies": {
+    "alfy": "^0.8.0"
+  }
 }
